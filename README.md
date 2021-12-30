@@ -1,8 +1,8 @@
 # SQL_AssessmentTest2
 Assessment Test #2; The Complete SQL Bootcamp 2022: Go from Zero to Hero on Udemy.com
 https://www.udemy.com/share/101Whk3@CQ1WJi-Kj5fEaJWW6UFXm4_PjKhDVJoMQ7GfJ90armF1KRKIORuNY-1m3NkzSqYR2g==/
-Questions:
 
+Questions:
 1. How can you retrieve all the information from the cd.facilities table?
 2. You want to print out a list of all of the facilities and their cost to members. How would you retrieve a list of only facility names and costs?
 3. How can you produce a list of facilities that charge a fee to members?
